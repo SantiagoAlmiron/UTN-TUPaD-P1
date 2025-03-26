@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*
 
 ## ✨ Estudiante
-- **Nombre:** Santiago Almiron*
-- **Comisión:** M2025-23 *[Modificar con su comisión, donde 7 es el número de comisión]*
+- **Nombre:** Santiago Almiron
+- **Comisión:** M2025-23
 
 ## 📂 Descripción del Repositorio
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.
